@@ -1,6 +1,7 @@
 # Joplin MCP Server
 
 [![Tests](https://github.com/rpakishore/joplin-mcp-server/actions/workflows/tests.yml/badge.svg)](https://github.com/rpakishore/joplin-mcp-server/actions/workflows/tests.yml)
+[![joppy](https://img.shields.io/badge/dynamic/toml?url=https://raw.githubusercontent.com/rpakishore/joplin-mcp-server/main/pyproject.toml&query=$.project.dependencies[0]&label=uses)](https://github.com/marph91/joppy)
 
 A [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server that provides AI assistants with access to your [Joplin](https://joplinapp.org/) notes, notebooks, and tags.
 

@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "MCP server for Joplin note-taking application"
 requires-python = ">=3.11"
 dependencies = [
-    "joppy",
+    "joppy==1.0.1",
     "mcp",
 ]
 
